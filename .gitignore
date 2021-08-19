@@ -1,3 +1,5 @@
+# mwd add bbprojectd
+*.bbprojectd/
 # Prerequisites
 *.d
 
